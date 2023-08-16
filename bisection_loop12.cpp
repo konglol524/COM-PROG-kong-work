@@ -23,6 +23,6 @@ int main() {
         
     }
 
-    std::cout << round(x * 1000000) / 1000000.0 << std::endl;
+    std::cout << x << std::endl;
 
 }
